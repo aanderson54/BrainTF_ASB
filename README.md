@@ -3,3 +3,7 @@ Transcription Factors (TFs) regulate gene expression by facilitating or disrupti
 
 ### Code:
 * Processing scripts can be found in the [script](https://github.com/aanderson54/BrainTF_ASB/tree/main/scripts) directory. 
+
+
+### Data:
+* All supplemental tables can also be found in the data directory.
