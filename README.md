@@ -7,3 +7,4 @@ Transcription Factors (TFs) regulate gene expression by facilitating or disrupti
 
 ### Data:
 * All supplemental tables can also be found in the data directory.
+* Raw and processed ChIP seq data from [Loupe et al. 2024](https://doi.org/10.1038/s41593-024-01658-8) can by found on [synapse](https://www.synapse.org/Synapse:syn51942384.5/datasets/)
